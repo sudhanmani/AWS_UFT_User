@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "GUITest1", "GUITest1\Test.tsp", "18DA0E3B-B826-472C-AFDD-A1FCF610A487"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\GUITest1\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "GUITest2", "GUITest2\Test.tsp", "AE889C8C-2CF7-4401-BA3F-05478DAC955B"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\GUITest2\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "GUITest3", "GUITest3\Test.tsp", "A8C02031-2B84-44AF-984C-7DCB02A83AA6"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\GUITest3\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "About", "About\Test.tsp", "F29EFCB8-5755-408D-8A34-63421B2D296B"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\About\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "GUITest4", "GUITest4\Test.tsp", "3C633130-B01F-4C72-8146-27B88DF121D5"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\GUITest4\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "GUITest5", "GUITest5\Test.tsp", "13B039E3-86FE-4459-A35F-E1AF6E0602E2"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\Administrator\Desktop\UFT scripts\GUITest5\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		18DA0E3B-B826-472C-AFDD-A1FCF610A487.Debug|Any CPU.Build.0 = Debug|Any CPU
+		18DA0E3B-B826-472C-AFDD-A1FCF610A487.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		18DA0E3B-B826-472C-AFDD-A1FCF610A487.Release|Any CPU.Build.0 = Release|Any CPU
+		18DA0E3B-B826-472C-AFDD-A1FCF610A487.Release|Any CPU.ActiveCfg = Release|Any CPU
+		AE889C8C-2CF7-4401-BA3F-05478DAC955B.Debug|Any CPU.Build.0 = Debug|Any CPU
+		AE889C8C-2CF7-4401-BA3F-05478DAC955B.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		AE889C8C-2CF7-4401-BA3F-05478DAC955B.Release|Any CPU.Build.0 = Release|Any CPU
+		AE889C8C-2CF7-4401-BA3F-05478DAC955B.Release|Any CPU.ActiveCfg = Release|Any CPU
+		A8C02031-2B84-44AF-984C-7DCB02A83AA6.Debug|Any CPU.Build.0 = Debug|Any CPU
+		A8C02031-2B84-44AF-984C-7DCB02A83AA6.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		A8C02031-2B84-44AF-984C-7DCB02A83AA6.Release|Any CPU.Build.0 = Release|Any CPU
+		A8C02031-2B84-44AF-984C-7DCB02A83AA6.Release|Any CPU.ActiveCfg = Release|Any CPU
+		F29EFCB8-5755-408D-8A34-63421B2D296B.Debug|Any CPU.Build.0 = Debug|Any CPU
+		F29EFCB8-5755-408D-8A34-63421B2D296B.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		F29EFCB8-5755-408D-8A34-63421B2D296B.Release|Any CPU.Build.0 = Release|Any CPU
+		F29EFCB8-5755-408D-8A34-63421B2D296B.Release|Any CPU.ActiveCfg = Release|Any CPU
+		3C633130-B01F-4C72-8146-27B88DF121D5.Debug|Any CPU.Build.0 = Debug|Any CPU
+		3C633130-B01F-4C72-8146-27B88DF121D5.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		3C633130-B01F-4C72-8146-27B88DF121D5.Release|Any CPU.Build.0 = Release|Any CPU
+		3C633130-B01F-4C72-8146-27B88DF121D5.Release|Any CPU.ActiveCfg = Release|Any CPU
+		13B039E3-86FE-4459-A35F-E1AF6E0602E2.Debug|Any CPU.Build.0 = Debug|Any CPU
+		13B039E3-86FE-4459-A35F-E1AF6E0602E2.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		13B039E3-86FE-4459-A35F-E1AF6E0602E2.Release|Any CPU.Build.0 = Release|Any CPU
+		13B039E3-86FE-4459-A35F-E1AF6E0602E2.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
